@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>812bd8cd-2b8c-4b20-9099-a9a763a72206</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>1-10 Tasks\08.py</StartupFile>
+    <StartupFile>1-10 Tasks\09.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -27,6 +27,7 @@
     <Compile Include="1-10 Tasks\04.py" />
     <Compile Include="1-10 Tasks\05.py" />
     <Compile Include="1-10 Tasks\08.py" />
+    <Compile Include="1-10 Tasks\09.py" />
     <Compile Include="11-20 Tasks\13.py" />
     <Compile Include="21-30\27.py" />
     <Compile Include="21-30\28.py" />
